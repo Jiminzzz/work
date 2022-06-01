@@ -7,7 +7,8 @@
     "size":"60X60 CM",
     "image":["https://thaisoung.co.th/wp-content/uploads/JS6P012-1.jpg",
       "https://thaisoung.co.th/wp-content/uploads/JS6P012-2048x1336.jpg"
-    ]
+    ],
+    "type":["matt","rough"]
     },
     {
     "id":"1",
@@ -16,7 +17,8 @@
     "size":"60X60 CM",
     "image":["https://thaisoung.co.th/wp-content/uploads/JS6P011-1.jpg",
       "https://thaisoung.co.th/wp-content/uploads/JS6P011-1024x668.jpg"
-    ]
+    ],
+    "type":["matt","rough"]
     },
     {
     "id":"2",
@@ -24,15 +26,18 @@
     "name":"MARBLE JS GREY POLISHED RAN6",
     "size":"60X60 CM",
     "image":["https://thaisoung.co.th/wp-content/uploads/Layer-1-6.png",
-    "https://thaisoung.co.th/wp-content/uploads/JS6P015-%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3-1024x670.jpg"]
+    "https://thaisoung.co.th/wp-content/uploads/JS6P015-%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3-1024x670.jpg"],
+    "type":["matt","rough"]
     },
+  
     {
     "id":"3",
     "code":"JHC6005F",
     "name":"TASTES BLACK 05F SOFT POLISHED RAN9",
     "size":"60X60X0.9 CM",
     "image":["https://thaisoung.co.th/wp-content/uploads/JHC6005PF-1.jpg",
-    "https://thaisoung.co.th/wp-content/uploads/Untitled-1-Custom.jpg"]
+    "https://thaisoung.co.th/wp-content/uploads/Untitled-1-Custom.jpg"],
+    "type":["matt","rough"]
     },
     {
     "id":"4",
@@ -40,7 +45,8 @@
     "name":"MODENA LIGHT GREY POLISHED RAN4",
     "size":"60X60 CM",
     "image":["https://thaisoung.co.th/wp-content/uploads/6806single-1.jpg",
-      "https://thaisoung.co.th/wp-content/uploads/6806-random.jpg"]
+      "https://thaisoung.co.th/wp-content/uploads/6806-random.jpg"],
+    "type":["matt","rough"]
     },
     {
     "id":"5",
@@ -48,7 +54,8 @@
     "name":"B MARBLE DARK GREY POLISHED RAN6",
     "size":"60X60X0.9 CM",
     "image":["https://thaisoung.co.th/wp-content/uploads/B6686P-2.jpg",
-    "https://thaisoung.co.th/wp-content/uploads/B6686P-random-1-1024x712.jpg"]
+    "https://thaisoung.co.th/wp-content/uploads/B6686P-random-1-1024x712.jpg"],
+    "type":["matt","rough"]
     }
   ]
 }
